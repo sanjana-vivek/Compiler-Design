@@ -18,7 +18,7 @@ To develop a lexical analyzer in C++ that reads a C program and identifies vario
 - Keywords
 - Identifiers
 - Operators
-- Special symbols
+- Constants
 
 ---
 
