@@ -26,8 +26,6 @@ To develop a lexical analyzer in C++ that reads a C program and identifies vario
 
 I created a text file of all cpp keywords so that it's not clustered in the main program inside a single manually defined set. I later used a set and text file class to import the textfile contents into a set.
 
----
-
 #### `readCppKeywords()`
 
 - The function returns a **set of strings** with all cpp keywords.
