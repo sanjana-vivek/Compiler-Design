@@ -4,7 +4,7 @@
 
 ---
 
-## 🧪 Experiment 1: LEXICAL ANALYSER
+## Experiment 1: LEXICAL ANALYSER
 
 ### Introduction
 
