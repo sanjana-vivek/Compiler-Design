@@ -15,10 +15,10 @@ A lexical analyser is described as the first phase of a compiler. It reads the s
 ### Aim of this Experiment
 To develop a lexical analyzer in C++ that reads a C program and identifies various tokens including:
 
-Keywords
-Identifiers
-Operators
-Special symbols
+- Keywords
+- Identifiers
+- Operators
+- Special symbols
 
 ---
 
